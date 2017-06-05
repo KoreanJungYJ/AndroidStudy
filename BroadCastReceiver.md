@@ -15,6 +15,7 @@
 2. 서비스에 구현한다.
 
 -예시-
+
     public class ReceiverEx extends BroadCastReceiver <!-- BroadCastReceiver 상속 받아서 처리함. -->
     {
         @Override

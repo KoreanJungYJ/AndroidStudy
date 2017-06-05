@@ -16,7 +16,6 @@
 
     public class ProviderEx extends ContentProvider{
         public int delete(Uri uri, String selection, String[] selectionArgs){
-            <!-- delete메소드 구현 -->
             return 0;
         }
         public String getType(Uri uri){

@@ -11,4 +11,4 @@
 
 -참고-
 
-<img src="">
+<img src="https://github.com/KoreanJungYJ/AndroidStudy/blob/master/Interface/ViewAndLayout.PNG">

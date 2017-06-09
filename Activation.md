@@ -16,6 +16,7 @@
     Content provider: 콘텐트 리졸버(ContentResolver)에 의해 활성화된다.
 
 **특별 경우**
+
 액티비티(Activity)와 서비스(Service)를 위한 인텐트는 액션과 URI
 정보가 필요하다. 또한 브로드캐스트 리시버(BroadCast Receiver)를
 위한 인텐트는 액션 정보가 필요하다.
